@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Wildcard1201
-- 👀 I’m interested in ... things!
-- 🌱 I’m currently learning ... things!
-- 💞️ I’m looking to collaborate on ... things!
-- 📫 How to reach me ... telepathy!
+- 👀 I’m interested in front end development and UI/UX
+- 🌱 I’m currently learning HTML/CSS/JS
+- 👍 I've also dabbled in React.js and Next.js
+
+
 
 <!---
 Wildcard1201/Wildcard1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
