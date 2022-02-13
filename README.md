@@ -2,6 +2,7 @@
 - 👀 I’m interested in front end development and UI/UX
 - 🌱 I’m currently learning HTML/CSS/JS
 - 👍 I've also dabbled in React.js and Next.js
+- 🤷‍♂️ Possibly Web3?
 
 
 
