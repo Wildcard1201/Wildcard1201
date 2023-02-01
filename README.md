@@ -4,6 +4,7 @@
 - 👍 I've also dabbled in React.js and some of it's offshoots
 - 🖍 Currently playing with Tailwind CSS in Next.js projects
 - ✅ I love building solutions that amplify and enhance goals
+- 🐍 Now checking out Python as well
 
 
 
